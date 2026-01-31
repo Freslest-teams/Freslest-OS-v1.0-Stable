@@ -13,7 +13,7 @@ Designed to work with an ILI9488 SPI display, 6 buttons, and a buzzer.
 - 6 push buttons  
 - 1 buzzer  
 - 1 × **10K resistor (for buzzer only)**  
-- 3.3V power supply  
+- 3.3V power supply  (or 3v3 pin)
 
 ---
 
